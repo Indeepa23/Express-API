@@ -43,7 +43,7 @@ Before running this project, make sure you have:
 
 ```bash
 git clone <your-repository-url>
-cd express-api
+cd Express-API
 ```
 
 ### 2. Install dependencies
