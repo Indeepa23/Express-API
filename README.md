@@ -1,4 +1,4 @@
-# Mini E-Commerce API
+# Express API
 
 A RESTful API for a mini e-commerce platform built with Express.js, Prisma ORM, and SQLite database. This API provides user authentication and product management functionality.
 
@@ -42,7 +42,7 @@ Before running this project, make sure you have:
 
 ```bash
 git clone <your-repository-url>
-cd mini-ecommerce-api
+cd express-api
 ```
 
 ### 2. Install dependencies
@@ -303,7 +303,7 @@ model Product {
 ## Project Structure
 
 ```
-mini-ecommerce-api/
+express-api/
 ├── controllers/
 │   ├── productController.js    # Product CRUD operations
 │   └── userController.js        # User authentication & management
