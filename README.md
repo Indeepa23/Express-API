@@ -1,6 +1,7 @@
 # Express API
 
-A RESTful API for a mini e-commerce platform built with Express.js, Prisma ORM, and SQLite database. This API provides user authentication and product management functionality.
+This API provides secure user authentication, authorization, and product management features.
+It is designed as a modular backend foundation for scalable retail or inventory management systems, supporting modern best practices such as token-based authentication (JWT), input validation, and structured database access through Prisma.
 
 ## Features
 
